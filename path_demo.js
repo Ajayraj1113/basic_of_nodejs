@@ -14,4 +14,6 @@ const path = require("path")
 // console.log(path.parse(__dirname))
 // console.log(path.parse(__filename))
 
+
+// creating path 
 console.log(path.join(__dirname, "test", "text.html"))
